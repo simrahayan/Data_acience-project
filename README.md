@@ -48,7 +48,7 @@ The core objective is to showcase data collection, transformation, visualization
 ## 🖼️ Sample Visuals
 
 > **Tesla – Stock Price vs Revenue**  
-![Tesla Graph](insert-image-path-here)
+![Tesla Graph]("C:\Users\simra\Downloads\q5_module5.png")
 
 > **GameStop – Stock Price vs Revenue**  
 ![GameStop Graph](insert-image-path-here)
@@ -56,8 +56,6 @@ The core objective is to showcase data collection, transformation, visualization
 📸 *Visuals generated using `matplotlib` and `plotly`. Screenshots available in submission files.*
 
 ---
-
-## 🔗 Notebook Access
 
 ## 🔗 Notebook Access
 
