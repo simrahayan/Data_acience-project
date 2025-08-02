@@ -59,9 +59,13 @@ The core objective is to showcase data collection, transformation, visualization
 
 ## 🔗 Notebook Access
 
+## 🔗 Notebook Access
+
 📓 Click below to open the full notebook in IBM Watson Studio:  
-[**Final Assignment - Stock & Revenue Analysis**]([http://localhost:8888/notebooks/Final%20Assignment-v2.ipynb#](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/af831632-4f25-4f43-8fd4-b26cc1cdb638/view?access_token=79db6ba4f5d829be00a3dbde87e5c322eafcae95fb1ffea3fcf5aa6121d408c7&context=wx))  
-> *Replace with your actual Watson Studio shareable link before submission.*
+[**Final Assignment – Stock & Revenue Analysis**](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/af831632-4f25-4f43-8fd4-b26cc1cdb638/view?access_token=79db6ba4f5d829be00a3dbde87e5c322eafcae95fb1ffea3fcf5aa6121d408c7&context=wx)  
+
+> *This notebook was developed entirely in IBM Watson Studio and demonstrates the end-to-end data analysis process.*
+
 
 ---
 
