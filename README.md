@@ -43,19 +43,6 @@ The core objective is to showcase data collection, transformation, visualization
 - Plots were exported and organized for use in a dashboard/report format.  
 - Insights focus on financial growth patterns and market performance.
 
----
-
-## 🖼️ Sample Visuals
-
-> **Tesla – Stock Price vs Revenue**  
-![Tesla Graph]("C:\Users\simra\Downloads\q5_module5.png")
-
-> **GameStop – Stock Price vs Revenue**  
-![GameStop Graph](insert-image-path-here)
-
-📸 *Visuals generated using `matplotlib` and `plotly`. Screenshots available in submission files.*
-
----
 
 ## 🔗 Notebook Access
 
